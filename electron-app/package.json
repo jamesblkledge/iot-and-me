@@ -1,0 +1,16 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  
+  "keywords": [],
+  "author": "James Blackledge",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "2.0.7"
+  }
+}
